@@ -34,4 +34,5 @@
 # Colaboradores
 | Andrey Lima | Murillo Fonseca | Nicolas Fernandes |
 |-------------|-----------------|-------------------|
-|   imagem    |      imagem     |      imagem       |
+| Organização | Programação | Elaboração     |
+| Documentação | Lógica  |  Estilização |
