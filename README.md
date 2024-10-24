@@ -3,10 +3,11 @@
 <p>Consiste em um aplicativo desenvolvido em C# para a organização de torneios personalizáveis.</p>
 
   # Índice
-  * [Status] (#Status)
-  * #Classes
-  * [Funcionalidades]([url](https://github.com/Drey012/Torneio-DS/new/main?filename=README.md#funcionalidades))
-  * [Status do Projeto](#status-do-Projeto)
+  * [Status](https://github.com/Drey012/Torneio-DS/new/main?filename=README.md#status)
+  * [Classes](https://github.com/Drey012/Torneio-DS/new/main?filename=README.md#classes)
+  * [Funcionalidades](https://github.com/Drey012/Torneio-DS/new/main?filename=README.md#funcionalidades)
+  * [Status](https://github.com/Drey012/Torneio-DS/new/main?filename=README.md#status)
+  * [Contribuidores](https://github.com/Drey012/Torneio-DS/edit/main/README.md#colaboradores)
   
   # Status
   🚧 Em Desenvolvimento 🚧
@@ -31,4 +32,7 @@
     - `Jogador`
     - `Jogo`
 
-      
+# Colaboradores
+| Andrey Lima | Murillo Fonseca | Nicolas Fernandes |
+|-------------|-----------------|-------------------|
+|   imagem    |      imagem     |      imagem       |
