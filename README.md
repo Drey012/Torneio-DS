@@ -9,7 +9,7 @@
   * [Colaboradores](#Colaboradores)
   
   # Status
-  🚧 Em Desenvolvimento 🚧
+  ✔️ Concluído ✔️
   
   # Classes 
   - `Conexão`
